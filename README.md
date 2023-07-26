@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🫀
 
-<!--
-**alineluprete/alineluprete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Aline 
 
-Here are some ideas to get you started:
+- estou estudando
+- estou estudando
+- estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### para entrar em contato 📧
+
+  aline.luprete@gmail.com
+  
+  @alineluprete
+
+![](https://media.tenor.com/UZJd1pjj4NMAAAAC/surprised-pikachu.gif)
